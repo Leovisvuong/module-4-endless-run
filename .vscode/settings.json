@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "endless run.sln"
+    "dotnet.defaultSolution": "module-4-endless-run.sln"
 }
